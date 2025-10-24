@@ -1,4 +1,5 @@
 **Project Overview**
+
 This project is an advanced demonstration of applying Computer Vision techniques to environmental monitoring.
 Developed during a 3-month internship, this solution automates the process of identifying and counting trees within video footage. 
 It replaces time-consuming manual surveys with an efficient, accurate, and scalable method.
@@ -6,7 +7,8 @@ It replaces time-consuming manual surveys with an efficient, accurate, and scala
 The project validates an end-to-end Computer Vision workflow, from data handling and preprocessing to model development, 
 evaluation, and fine-tuning.
 
-🛠️# **Technical Workflow & Components**
+🛠️# **Technical Workflow & Components:**
+
 The project was executed through the following stages:
 
 🟡Data Preprocessing: Handled raw video streams and images, preparing them for ingestion into the model.
@@ -19,13 +21,15 @@ counting and prevent duplicates.
 🟡Evaluation & Refinement: Focused on model evaluation (documented in the provided notebooks) to improve accuracy by
 an estimated 15% over the baseline.
 
-**Project Files**
+**Project Files:**
+
 treeidentification1.ipynb: Initial exploration and setup of the tree identification logic.
 
 treedetection2.ipynb: Final model training, fine-tuning, and evaluation for accurate object detection.
 
-🚀**How to Run the Project
-**Clone this repository.
+🚀**How to Run the Project:
+**
+Clone this repository.
 
 Ensure you have Python, Jupyter, OpenCV, and other necessary data science libraries installed.
 
