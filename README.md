@@ -36,8 +36,12 @@ Ensure you have Python, Jupyter, OpenCV, and other necessary data science librar
 Open and execute the cells in treedetection2.ipynb to see the final model in action. You will need to provide sample
 video input to test the detection pipeline.
 
-🟡#Technical Scope:	Built the detection model using the core Python and OpenCV libraries.
-🟡#Workflow Implementation :	Utilized two distinct Jupyter Notebooks to manage the iterative phases of the project, including initial identification and subsequent detection refinement.
-🟡#Efficiency Gains:	Applied image processing and frame-by-frame analysis to process vast amounts of video data, significantly reducing the time required for tree inventory.
-🟡#Model Performance:	The final model achieved an estimated 90%+ accuracy in detecting and localizing trees, validated through rigorous model evaluation.
-🟡#Real-World Application:	The system can be integrated with UAV (drone) or fixed-camera footage for applications like forest inventory, urban green space management, and illegal logging detection.
+🟡Technical Scope:	Built the detection model using the core Python and OpenCV libraries.
+🟡Workflow Implementation :	Utilized two distinct Jupyter Notebooks to manage the iterative phases of the project, 
+including initial identification and subsequent detection refinement.
+🟡Efficiency Gains:	Applied image processing and frame-by-frame analysis to process vast amounts of video data, 
+significantly reducing the time required for tree inventory.
+🟡Model Performance:	The final model achieved an estimated 90%+ accuracy in detecting and localizing trees, validated through
+rigorous model evaluation.
+🟡Real-World Application:	The system can be integrated with UAV (drone) or fixed-camera footage for applications like forest inventory, 
+urban green space management, and illegal logging detection.
