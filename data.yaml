@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Tree']
+
+roboflow:
+  workspace: rajesh-pols6
+  project: tree_detection-jjpz1
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rajesh-pols6/tree_detection-jjpz1/dataset/1
